@@ -1,26 +1,36 @@
-C++ Programming Record
+C++ Programming Practice
 
-About
+Welcome to my C++ programming repository!
 
-This repository contains my C++ programming practical exercises and academic record work as a B.E. Artificial Intelligence and Machine Learning student at Chennai Institute of Technology.
+I am a first-year B.E. Artificial Intelligence and Machine Learning student at Chennai Institute of Technology.
 
-Purpose
+🎯 Purpose
 
-- Maintain my C++ practical programs.
-- Improve programming fundamentals.
-- Develop logical thinking and problem-solving skills.
-- Document my learning progress.
+This repository documents my journey of learning C++ programming through academic practicals and coding exercises.
 
-Programming Language
+💻 Language
 
 - C++
 
-Repository Contents
+📚 Repository Contents
 
-This repository contains C++ practical programs and exercises completed during my academic learning.
+- College practical programs
+- Basic C++ concepts
+- Programming exercises
+- Problem-solving practice
 
-Author
+🚀 Learning Goals
+
+- Strengthen programming fundamentals
+- Improve logical thinking
+- Develop problem-solving skills
+- Practise writing clean and readable code
+
+👨‍💻 Author
 
 S. Prajan
-
 Chennai Institute of Technology
+
+---
+
+Learning C++ one program at a time.
